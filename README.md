@@ -1,3 +1,6 @@
+There were some potential grey areas regarding whether a product name contained a a known food ingredient, so the following notes lay out how the researchers dealt with these items. 
+Note on use of the term ingredient: this was not necessarily a single whole food item. For example, while chickpeas would be classed as an 'ingredient', so too would be 'falafels', 'hummus' and 'guacamole'. While they do combine a number of foods, the primary food it contains is typically the same, . For example, 'guacamole' is typically made with avocados, and avocados are a whole food. Contrastingly, Margherita is not an ingredient, it is more a type of food. Also, especially in this context, what would be being referred to is a vegan margherita, so while one may assume that a margerhita is a known pizza topping of cheese, in the case of a vegan margherita, it can't be know what the food is (as the point of it being vegan is that it would not be dairy. The consumer can't know what the 'vegan' cheese would be made from). Additionally, a mar
+
 # Unknown-or-Unavailable-Protein-Audit-2026
 
 The text below contains useful details about the vegan items on offer from each restaurant where the researcher thought it was relevant to highlight something in particular.
